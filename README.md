@@ -14,8 +14,6 @@ Developing Cryptocurrency financial systems and ecosystems, all kinds of NFT ser
 Regards
 Afaque
 
-theafaqueahmed
-
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmedafaque805&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
