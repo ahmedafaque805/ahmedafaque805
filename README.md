@@ -5,12 +5,6 @@
 </p>
 I have 2+ years of experience in web and mobile application development. I have strong technical skills as well as strong communications skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
 
-I also have experience of working as Blockchain developer.
-
-From Decentralized finance projects to Decentralized social platform , I have rich experience in this field.
-
-Developing Cryptocurrency financial systems and ecosystems, all kinds of NFT services (NFT games, NFT marketplaces and NFT social platforms). and Blockchain build projects on Ethereum, Binance Smart Contract, Solana, Polygon.
-
 Regards
 Afaque
 
