@@ -5,6 +5,7 @@
 </p>
 I have 2+ years of experience in web and mobile application development. I have strong technical skills as well as strong communications skills. Over the years I have developed several Native and Hybrid Applications in various industry verticals including Fintech, Social, Chat, Restaurants, and Loyalty systems to name a few.
 
+
 Regards
 Afaque
 
